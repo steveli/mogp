@@ -74,10 +74,11 @@ test_obs_ts = TimeSeries(test_obs_x, test_obs_y, mogp.shared)
 post_mean, post_cov = mogp.predictive_gaussian(test_obs_ts, test_mis_x)
 ```
 
-##Legal
+## License
 
-Copyright 2016 Steven Cheng-Xian Li and Benjamin M. Marlin. These materials are provided under the GNU GENERAL PUBLIC LICENSE Version 3 (GPL 3). As permitted by GPL 3 Section 7(b), all attributions present in this work must be preserved in all copies and derived works.
+MIT
 
-##Support
+## Support
 
-The development of this code was supported by the National Science Foundation through award # IIS-1350522.
+The development of this code was supported by the National Science Foundation
+through award # IIS-1350522.
