@@ -1,9 +1,8 @@
 # Multi-Output Gaussian Processes
 
-Python implementation for
-[Collaborative Multi-Output Gaussian Processes for Collections of
-Sparse Multivariate Time Series]
-(https://drive.google.com/open?id=0Bx7depbNYaFIRndmU1cxM1YtaXo3U2RsLVZSWkxsdjZOcFpF).
+Python implementation for the paper
+"[Collaborative Multi-Output Gaussian Processes for Collections of
+Sparse Multivariate Time Series](https://drive.google.com/open?id=0Bx7depbNYaFIRndmU1cxM1YtaXo3U2RsLVZSWkxsdjZOcFpF)".
 
 
 ## Example
